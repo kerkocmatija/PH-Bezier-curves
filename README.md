@@ -1,5 +1,5 @@
-# BEZiER CURVER WITH PYTHAGOREAN HODOGRAPH
- (Bezierjeve krivulje s pitagorejskim hodografom)
+# BEZIER CURVES WITH PYTHAGOREAN HODOGRAPH
+# (Bezierjeve krivulje s pitagorejskim hodografom)
  
  A project for course Computer aided geometric design (Računalniško podprto geometrijsko oblikovanje).
  
