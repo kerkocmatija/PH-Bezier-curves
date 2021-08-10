@@ -7,6 +7,6 @@ We explored a special type of Bezier curves, curves utilizing Pythagorean *hodog
 
 The main beauty of such curves comes in play when we compute their *offset curves*. Once we have PH Bezier curve the offset is immediate, even more the offset is then rational Bezier curve. Why is this so important? For computers the rational curve is quick and *exact* to compute. Meaning, we don't need approximations or other tools otherwise used in computer aided design.
 
-In the last section we also explored representation of Bezier curves in the complex plane C. We found out that we can write PH curve much more compactly if we make use of the complex numbers.
+In the last section we also explored representation of Bezier curves in the complex plane C. With use of complex numbers we can represent Bezier curves in more concise manner. Additionally we can also simplyfy operations involving Bezier curves and write them down in more compact form.
 
-We implemented a Matlab code for PH Bezier curves as well as code for generating figures.
+We implemented a Matlab code for PH Bezier curves, as well as code for generating figures.
